@@ -1,0 +1,17 @@
+<script src="three.r119.min.js"></script>
+<script src="vanta.birds.min.js"></script>
+<script>
+VANTA.BIRDS({
+  el: "#your-element-selector",
+  mouseControls: true,
+  touchControls: true,
+  gyroControls: false,
+  minHeight: 200.00,
+  minWidth: 200.00,
+  scale: 1.00,
+  scaleMobile: 1.00,
+  birdSize: 1.10,
+  wingSpan: 10.00,
+  speedLimit: 4.00
+})
+</script>
